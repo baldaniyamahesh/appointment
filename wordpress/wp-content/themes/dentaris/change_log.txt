@@ -1,0 +1,11 @@
+Version 1.0
+i) Intial version Release
+
+Version 1.1
+i) Resolved few bugs.
+
+Version 1.1.1
+i) Resolved error from homepage.
+
+Version 1.2
+i) Added skip to content button and made some changes in style.css file.
